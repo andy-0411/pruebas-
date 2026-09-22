@@ -1,0 +1,16 @@
+/* Estilos base para elementos con la clase .js */
+.js {
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 1rem;
+	color: #f8fafc;
+	background-color: #1e293b;
+	border: 1px solid #334155;
+	border-radius: 0.5rem;
+	font-family: "Fira Code", "Courier New", monospace;
+	font-size: 0.95rem;
+	line-height: 1.5;
+	white-space: pre-wrap;
+	overflow-x: auto;
+}
